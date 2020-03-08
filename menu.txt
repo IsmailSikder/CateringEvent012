@@ -1,0 +1,18 @@
+Dinner Event Details
+Event Number:	1
+Type of Event:	wedding
+Dinner choice:	Chicken, ice cream, Ceaser Salad, Lobster Bisque
+Price:		385
+
+Dinner Event Details
+Event Number:	2
+Type of Event:	baptism
+Dinner choice:	steak, pudding, Mixed greens, Chicken Soup
+Price:		770
+
+Dinner Event Details
+Event Number:	3
+Type of Event:	birthday
+Dinner choice:	fish, choclate cake, Regular Greens, Onion Ring
+Price:		1155
+
